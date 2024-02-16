@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lavinia592
 - 👀 I’m interested in python automation, web scraping, web development. 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python automatization, web development, data science.
 - 📫 How to reach me ...
 
 <!---
