@@ -2,7 +2,8 @@
 - 👀 I’m interested in python automation, web scraping, web development. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python automatization, web development, data science.
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/lavinia-cristina/
+
 
 <!---
 Lavinia592/Lavinia592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
