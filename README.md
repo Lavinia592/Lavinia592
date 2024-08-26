@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Lavinia592
-- 👀 I’m interested in python automation, web scraping, web development. 
-- 🌱 I’m currently learning python and web development.
-- 💞️ I’m looking to collaborate on python automatization, web development.
+- 👀 I’m interested in QA and web development. 
 - 📫 How to reach me https://www.linkedin.com/in/lavinia-cristina/
 
 
