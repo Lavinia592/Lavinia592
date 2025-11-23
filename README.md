@@ -8,3 +8,9 @@
 Lavinia592/Lavinia592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--SNAKE-->
+<div align = "center">
+  
+  ![snake gif](https://github.com/Lavinia592/Lavinia592/blob/output/github-snake-dark.svg)
+</div>
