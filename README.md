@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-<!----
+
 ## 👾 Pacman
 <div align = "center">
 <picture>
@@ -57,4 +57,3 @@ You can click the Preview link to take a look at your changes.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lavinia592/Lavinia592/output/pacman-contribution-graph.svg">
 </picture>
 </div>
----->
