@@ -4,6 +4,8 @@
   👋 Hi, I’m @Lavinia592
   
   👀 I’m interested in QA and Frontend Web Development.  
+
+  🌱 I am currently learning React.
   
   📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavinia-cristina) 
