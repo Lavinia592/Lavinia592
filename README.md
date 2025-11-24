@@ -3,7 +3,7 @@
   
   👋 Hi, I’m @Lavinia592
   
-  👀 I’m interested in QA and Frontend Web Development.  
+  👀 I’m interested in QA Automation and Frontend Web Development.  
 
   🌱 I am currently learning React.
   
