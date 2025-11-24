@@ -45,8 +45,8 @@ You can click the Preview link to take a look at your changes.
   ![snake gif](https://github.com/Lavinia592/Lavinia592/blob/output/github-snake-dark.svg)
 </div>
 
+<!----
 ## 👾 Pacman
-<!---Pacman---->
 <div align = "center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lavinia592/Lavinia592/output/pacman-contribution-graph-dark.svg">
@@ -54,3 +54,4 @@ You can click the Preview link to take a look at your changes.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lavinia592/Lavinia592/output/pacman-contribution-graph.svg">
 </picture>
 </div>
+--->
