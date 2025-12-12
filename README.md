@@ -5,7 +5,7 @@
   
   👀 I’m interested in QA Automation and Frontend Web Development.  
 
-  🌱 I am currently learning   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+ <!--- 🌱 I am currently learning   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) --->
 
   
   📫 How to reach me:
