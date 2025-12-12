@@ -28,7 +28,11 @@
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-  
+<!----
+  🤖 AI Tools:
+  ![CHATGPT](https://img.shields.io/badge/ChatGPT-%230077B5?style=for-the-badge&logo=openai&logoColor=white)
+  ![GITHUB COPILOT](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+  ---->
   🎮 Check my game project: https://lavinia592.github.io/Pig-Game/
 
   🔜 More projects
