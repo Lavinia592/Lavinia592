@@ -1,7 +1,7 @@
 <!---Description---->
 <div align="center">
   
-  👋 Hi, I’m @Lavinia592
+  👋 Hi, I’m Lavinia!
   
   👀 I’m interested in QA Automation and Frontend Web Development.  
 
