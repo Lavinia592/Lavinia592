@@ -3,7 +3,7 @@
   
   👋 Hi, I’m Lavinia!
   
-  👀 I’m interested in QA Engineer | Manual & Automation Testing | 🔎🐞.
+  👀 I’m interested in QA Engineer | API Testing | 🔎🐞.
 
  <!--- 🌱 I am currently learning   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) --->
 
